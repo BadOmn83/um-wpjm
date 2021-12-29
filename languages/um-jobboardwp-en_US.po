@@ -1,0 +1,128 @@
+# Copyright (C) 2020 Ultimate Member
+# This file is distributed under the same license as the Ultimate Member - WP Job Manager integration plugin.
+msgid ""
+msgstr ""
+"Project-Id-Version: Ultimate Member - WP Job Manager integration 1.0.0\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/um-wpjm\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2020-08-12T16:17:18+03:00\n"
+"PO-Revision-Date: 2020-08-12 16:25+0300\n"
+"X-Generator: Poedit 2.0.6\n"
+"X-Domain: um-wpjm\n"
+"Last-Translator: \n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Language: en_US\n"
+
+#. Plugin Name of the plugin
+msgid "Ultimate Member - WP Job Manager integration"
+msgstr ""
+
+#. Plugin URI of the plugin
+msgid "https://ultimatemember.com/extensions/jobboardwp/"
+msgstr ""
+
+#. Description of the plugin
+msgid "Integrates Ultimate Member with WP Job Manager"
+msgstr ""
+
+#. Author of the plugin
+msgid "Ultimate Member"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "http://ultimatemember.com/"
+msgstr ""
+
+#: includes/admin/templates/role/jobboardwp.php:13
+msgid "Disable jobs tab?"
+msgstr ""
+
+#: includes/admin/templates/role/jobboardwp.php:14
+msgid ""
+"If you turn this off, this role will not have a jobs tab active in their "
+"profile."
+msgstr ""
+
+#: includes/core/class-account.php:38
+msgid "Jobs Dashboard"
+msgstr ""
+
+#: includes/core/class-admin.php:38 includes/core/class-admin.php:59
+msgid "WP Job Manager"
+msgstr ""
+
+#: includes/core/class-admin.php:64
+msgid "Account Tab"
+msgstr ""
+
+#: includes/core/class-admin.php:65
+msgid "Show or hide an account tab that shows the jobs dashboard."
+msgstr ""
+
+#: includes/core/class-integrations.php:54
+msgid "New job"
+msgstr ""
+
+#: includes/core/class-integrations.php:55
+msgid "Job is filled"
+msgstr ""
+
+#: includes/core/class-integrations.php:70
+msgid "Your job is approved"
+msgstr ""
+
+#: includes/core/class-integrations.php:71
+msgid "When your job gets approved status"
+msgstr ""
+
+#: includes/core/class-integrations.php:74
+msgid "Your job is expired"
+msgstr ""
+
+#: includes/core/class-integrations.php:75
+msgid "When your job gets expired status"
+msgstr ""
+
+#: includes/core/class-integrations.php:90
+msgid "Only verified users can apply for jobs"
+msgstr ""
+
+#: includes/core/class-integrations.php:91
+msgid "Unverified users cannot apply the jobs."
+msgstr ""
+
+#: includes/core/class-integrations.php:126
+msgid "Show messages button in individual job post"
+msgstr ""
+
+#: includes/core/class-integrations.php:127
+msgid "Start private messaging with a job author."
+msgstr ""
+
+#: includes/core/class-profile.php:38
+msgid "Jobs"
+msgstr ""
+
+#: includes/core/class-setup.php:38
+msgid "Your <a href=\"{job_uri}\">job</a> is now approved."
+msgstr ""
+
+#: includes/core/class-setup.php:39
+msgid "Your <a href=\"{job_uri}\">job</a> is now expired."
+msgstr ""
+
+#: um-wpjm.php:45 um-wpjm.php:61
+msgid ""
+"The <strong>%s</strong> extension requires the Ultimate Member plugin to be "
+"activated to work properly. You can download it <a href=\"https://wordpress."
+"org/plugins/ultimate-member\">here</a>"
+msgstr ""
+
+#: um-wpjm.php:77
+msgid ""
+"Sorry. You must activate the <strong>WP Job Manager</strong> plugin to use the "
+"%s."
+msgstr ""
